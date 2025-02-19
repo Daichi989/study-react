@@ -1,5 +1,6 @@
+import { List } from "@/app/components/List";
 import Image from "next/image";
-import { List } from "./components/List";
+// import { List } from "./components/List";
 
 export default function Home() {
   return (
